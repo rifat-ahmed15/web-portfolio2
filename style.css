@@ -263,6 +263,8 @@ ul li a:hover{
 .icons ion-icon:hover{
     color: #ff7200;
 }
-.footer{
-    width: 200%;
+h3{
+    background-color: dimgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
